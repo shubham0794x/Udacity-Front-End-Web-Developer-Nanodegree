@@ -1,7 +1,7 @@
 ### frontend-nanodegree-arcade-game
 ===============================
 
-This is Project in part 4 in Frond-End Developer Nanodegree program from Udacity. The project utilizes concepts learned from [Object-Oriented JavaScript] and [HTML5 Canvas] courses.
+This is Project in part 4 in Frond-End Developer Nanodegree program from Udacity. The project utilizes concepts learned from [Object-Oriented JavaScript] , Functional Programming and [HTML5 Canvas] courses.
 
 ### HOW TO PLAY
 
