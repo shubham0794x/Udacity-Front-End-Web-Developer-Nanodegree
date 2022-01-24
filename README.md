@@ -16,6 +16,10 @@ Object Oriented JavaScript
 
 Node JS
 
+HTTP
+
+WebPack
+
 Knockout JS
 
 Bower
